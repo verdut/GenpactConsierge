@@ -179,7 +179,7 @@ private:
     qint64 passed=0,contor=0,interactiv=0;
 
     ///###### Auxiliary Buttons for Testing - to be commented #####
-    QPushButton *welcomeButton,*optionButton, *faceButton, *twoFAButton;
+    QPushButton *welcomeButton,*optionButton, *faceButton, *twoFAButton,*finishRegistration;
 
 
 private slots:
