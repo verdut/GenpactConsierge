@@ -1,0 +1,14 @@
+QPushButton#btn {
+    background-color: transparent;
+    font: 15px "FontAwesome";
+    color: #0679b4;
+    border: none;
+}
+
+QPushButton:pressed#btn {
+    color: #7c8896;
+}
+
+QPushButton:disabled#btn {
+    color: #7c8896;
+}

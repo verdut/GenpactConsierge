@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package>
+  <name>promobot_example_app_scripts</name>
+  <version>2.0.0</version>
+  <description>The promobot common library package</description>
+
+  <maintainer email="info@promo-bot.ru">promobot</maintainer>
+  <url type="website">http://promo-bot.ru</url>
+  
+  <author email="sidorov@promo-bot.ru">Ivan Sidorov</author>
+  
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>libqtpromobot</build_depend>
+  <build_depend>libqtpromobotwidgets</build_depend>
+  <build_depend>libqtapplicationbase</build_depend>
+
+  <run_depend>libqtpromobot</run_depend>
+  <run_depend>libqtpromobotwidgets</run_depend>
+  <run_depend>libqtapplicationbase</run_depend>
+
+  <export>
+  </export>
+</package>

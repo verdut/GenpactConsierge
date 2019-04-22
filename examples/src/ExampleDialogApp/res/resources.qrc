@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/PromobotDefault">
+        <file>style.css</file>
+    </qresource>
+</RCC>

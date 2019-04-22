@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <name>promobot_app_genpact35</name>
+  <version>2.0.0</version>
+  <description>Genpact boarding application</description>
+
+  <maintainer email="info@promo-bot.ru">promobot</maintainer>
+  <url type="website">http://promo-bot.ru</url>
+  
+  <author email="bucharestrobots@gmail.com">Bucharest Promo</author>
+  
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>libqtpromobot</build_depend>
+  <build_depend>libqtapplicationbase</build_depend>
+  <build_depend>libqtpromobotwidgets</build_depend>
+  <build_depend>libqtapplicationwidgets</build_depend>
+  <build_depend>libqtpromobotdialogmodule</build_depend>
+
+  <run_depend>libqtpromobot</run_depend>
+  <run_depend>libqtapplicationbase</run_depend>
+  <run_depend>libqtpromobotwidgets</run_depend>
+  <run_depend>libqtapplicationwidgets</run_depend>
+  <run_depend>libqtpromobotdialogmodule</run_depend>
+
+  <export>
+  </export>
+</package>
